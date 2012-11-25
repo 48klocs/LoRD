@@ -25,8 +25,8 @@ namespace LoRD.Model
 
 		public void Attack (ICreature enemy)
 		{
-			var playerAttack = new PlayerAttack(this);
-			playerAttack.Attack(enemy);
+			var playerCombat = new PlayerCombat(this);
+			playerCombat.Attack(enemy);
 		}
 
 		public Player ()

@@ -36,9 +36,9 @@
     <Compile Include="IPlayer.cs" />
     <Compile Include="ICreature.cs" />
     <Compile Include="Player.cs" />
-    <Compile Include="PlayerAttack.cs" />
     <Compile Include="Monster.cs" />
     <Compile Include="CreatureBase.cs" />
+    <Compile Include="PlayerCombat.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

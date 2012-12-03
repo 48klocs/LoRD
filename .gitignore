@@ -82,6 +82,8 @@ _ReSharper*
 
 # MonoDevelop test results
 test-results/
+*.test-cache
+*.csproj.test-cache
 
 # Installshield output folder
 [Ee]xpress

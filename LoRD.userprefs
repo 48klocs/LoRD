@@ -1,19 +1,27 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LoRD.Model\PlayerAttack.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoRD.Model\Dice.cs">
     <Files>
       <File FileName="LoRD.Model\Monster.cs" Line="5" Column="37" />
       <File FileName="LoRD.Model\IPlayer.cs" Line="13" Column="37" />
       <File FileName="LoRD.Model\ICreature.cs" Line="13" Column="25" />
       <File FileName="LoRD.Model.Test\PlayerTest.cs" Line="15" Column="46" />
-      <File FileName="LoRD.Model\Player.cs" Line="9" Column="3" />
-      <File FileName="LoRD.Model\PlayerAttack.cs" Line="10" Column="4" />
+      <File FileName="LoRD.Model\Player.cs" Line="14" Column="1" />
+      <File FileName="LoRD.Model\PlayerCombat.cs" Line="16" Column="4" />
       <File FileName="LoRD.Model\CreatureBase.cs" Line="20" Column="4" />
       <File FileName="LoRD.Model.Test\CreatureBaseTest.cs" Line="39" Column="17" />
+      <File FileName="LoRD.Model\Dice.cs" Line="17" Column="3" />
+      <File FileName="LoRD.Model.Test\DiceTest.cs" Line="30" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State expanded="True" selected="True" />
+        <State expanded="True">
+          <Node name="LoRD.Model" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Dice.cs" selected="True" />
+          </Node>
+          <Node name="LoRD.Model.Test" expanded="True" />
+        </State>
       </Pad>
       <Pad Id="ClassPad">
         <State expanded="True" selected="True" />
